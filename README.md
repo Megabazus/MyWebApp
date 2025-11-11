@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Megabazus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+README
 
-<!---
-Megabazus/Megabazus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://marketplace.visualstudio.com/items?itemName=ClemensPeters.format-json
+
+Background
+To format JSON files in VS code
+
+Cmd + K M
+Type JSON
+Hit Enter
+Option + Shift + F to format the content
+Now it is just Cmd + Shift + P and then Format JSON.
